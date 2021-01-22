@@ -1,0 +1,14 @@
+{
+  "name": "lab1example",
+  "version": "1.0.0",
+  "description": "lab1",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install chalk"
+  },
+  "author": "emily",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
